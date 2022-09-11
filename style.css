@@ -1,9 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura&display=swap');
+
 table {
-				color: darkgreen;
-			}
-[href="#LOFT"]{
-	color: orangered;
+	color: darkgreen;
+	width: 100%;
+	border: 0px;
 }
-[href="https://loft.market/stoly/zhurnalnye-stoly"]{
-	color: orangered;
+[href="https://instagram.com/loft.and.wood"]{
+	color:red;
+}
+[href="https://www.avito.ru/stavropol/mebel_i_interer/zhurnalnyy_stolik_stol_iz_dereva_loft_spila_1914071000"]{
+	color: mediumblue;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:visited{
+	color: purple;
+}
+
+li.phone{
+	color: limegreen;
+}
+body{
+	background: lightgray;
+font-size: normal;
+font-weight: normal;
+font-family:'Jura', sans-serif;
+}
+.tree{
+	 width: 300px;
+	 border-radius: 26px;
+	 box-shadow: 12px 12px 14px black;
+}
+p{
+	color: black;
+	margin: 3;
+}
+
+.block{
+	display: flex;
+	margin: 20px;
+}
+
+.social{
+	background: darkolivegreen;
+	padding: 12px;
+	border: 3px solid darkseagreen;
+	margin: 10px; 
+}
+h1{
+	background: darkolivegreen;
+	padding: 20px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.karagach{
+	margin-left: 50px;
+	padding: 20px;
+	
 }
